@@ -184,9 +184,9 @@ Time Stamps: <br>
 <p>
 Micro Electro-Mechanical Systems are devices built with micro sensors and mechanical parts along signal processing circuits. These devices provide a channel between computing systems and the physical world. Basic I/O ’s are built using MEMS. They provide I/O to information systems like sensing and creating motion, radio waves etc. 
 The distinctive features of MEMS :
-1. Miniaturization 
-2. Multiplicity
-3. Microelectronics.
+1. Miniaturization <br>
+2. Multiplicity <br>
+3. Microelectronics. <br>
 
 </p>
 
