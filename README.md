@@ -259,14 +259,23 @@ Video:
 Linearity
 -----------
 
+Video:
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/wOQDGvCLOs8/hqdefault.jpg)](http://www.youtube.com/watch?v=wOQDGvCLOs8)
+
 Causality
 -----------
+
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/mqwUtn5cip8/hqdefault.jpg)](http://www.youtube.com/watch?v=mqwUtn5cip8)
 
 Invertibility
 -----------
 
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/06-xo-xAELs/hqdefault.jpg)](http://www.youtube.com/watch?v=06-xo-xAELs)
+
 Time Invariance
 -----------
+
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/LezLNMznZm4/hqdefault.jpg)](http://www.youtube.com/watch?v=LezLNMznZm4)
 
 LTI Systems
 =================
@@ -274,17 +283,28 @@ LTI Systems
 Introduction
 -----------
 
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/Y8iFJVmSQIk/hqdefault.jpg)](http://www.youtube.com/watch?v=Y8iFJVmSQIk)
+
 Impulse response of LTI
 -----------
+
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/CmSlO-wG1V0/hqdefault.jpg)](http://www.youtube.com/watch?v=CmSlO-wG1V0)
+
 
 Frequency response of LTI
 -----------
 
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/E3QfYXscsCc/hqdefault.jpg)](http://www.youtube.com/watch?v=E3QfYXscsCc)
+
 Relationship between Frequency and Impulse Response
 -----------
 
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/E3QfYXscsCc/hqdefault.jpg)](http://www.youtube.com/watch?v=E3QfYXscsCc)
+
 Difference equation Representation of LTI System
 -----------
+
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/mRfFUUwfcG0/hqdefault.jpg)](http://www.youtube.com/watch?v=mRfFUUwfcG0)
 
 Integration of Systems
 =================
@@ -292,8 +312,14 @@ Integration of Systems
 Cascading
 -----------
 
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/5-LWNQkIzS8/hqdefault.jpg)](http://www.youtube.com/watch?v=5-LWNQkIzS8)
+
 Parallel
 -----------
 
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/5-LWNQkIzS8/hqdefault.jpg)](http://www.youtube.com/watch?v=5-LWNQkIzS8)
+
 Feedback
 -----------
+
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/ua4eMZTxpQ0/hqdefault.jpg)](http://www.youtube.com/watch?v=ua4eMZTxpQ0)
