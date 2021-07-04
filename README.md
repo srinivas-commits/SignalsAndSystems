@@ -235,33 +235,70 @@ Properties Of Systems
 Memory
 -----------
 
-Video:
+<b>Video: </b> <br>
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/4PUcOf0koxw/hqdefault.jpg)](http://www.youtube.com/watch?v=4PUcOf0koxw)
 
-Description:
+Time Stamps: <br>
+&nbsp;&nbsp; 7:21 - 10:58 Memory of System and Memoryless System
+&nbsp;&nbsp; 1:05 - 15:50 Memory System 
+
+<b>Description: </b> <br>
 
 Memoryless system: The system is said to be memoryless (in both continuous-time and discrete-time) if its output signal only depends on the present value of the input signal.
 The input from the past and future has no influence on the output of the system.
 
 Ex: A resistor is memoryless, since the current i(t) flowing through it in response to the applied voltage v(t) is defined by
 
-
-     
 where R is resistance of the resistor.
 
+Memory System: In contrast, the system is said to possess memory if its output signal depends on past or future values of input signal.
+These systems are opposite of memory systems.
+
+Ex: An inductor has memory, since the current i(t) flowing through it is related to the applied voltage v(t) by
+	
+where L is the inductance of the inductor.
 
 Stability
 -----------
 
-Video:
+<b>Video: </b> <br>
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/a3b_2VVmkPA/hqdefault.jpg)](http://www.youtube.com/watch?v=a3b_2VVmkPA)
+
+Time Stamps: <br>
+&nbsp;&nbsp; 0:43 - 8:55 Stability stable & Unstable system
+
+<b>Description </b> <br>
+<p>
+Stable System: A system is said to be bounded-input, bounded-output (BIBO) stable (in both continuous-time and discrete-time) if and only if every bounded input results in a bounded output.
+
+i.e., if the output of the system satisfies the condition
+<image>
+whenever the input of the system satisfies the condition
+<image>
+Both Mx and My represent some finite positive numbers.
+
+Unstable system: A system is said to be unstable if it is not a stable system.
+
+Ex:
+<image>
+Lets assume the input is bounded and satisfies the condition.
+<image>
+Then we can find that
+<image>
+When r ≥ 1, r^n increases as n increases and the magnitude of y[n] increases, thus violating the bibo stable condition. So, the system is unstable.
+
+When r < 1, r^n decreases as n increases and the magnitude of y[n] reaches zero, thus satisfying the bibo stable condition. So, the system is stable.
+</p>
 
 Linearity
 -----------
 
-Video:
+<b>Video: </b> <br> 
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/wOQDGvCLOs8/hqdefault.jpg)](http://www.youtube.com/watch?v=wOQDGvCLOs8)
 
+Time Stamps: <br>
+&nbsp;&nbsp; 0:51 - 9:10 Linearity superposition
+	
 Causality
 -----------
 
