@@ -253,6 +253,9 @@ where R is resistance of the resistor.
 Stability
 -----------
 
+Video:
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/a3b_2VVmkPA/hqdefault.jpg)](http://www.youtube.com/watch?v=a3b_2VVmkPA)
+
 Linearity
 -----------
 
