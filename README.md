@@ -173,8 +173,8 @@ Closed loop:
 MEMS
 -----------
 
-<b>Video: </b><br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/O-OqgFE9SD4/4.jpg)](http://www.youtube.com/watch?v=O-OqgFE9SD4)
+<b>Video: </b> <br>
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/j9y0gfN9WMg/hqdefault.jpg)](http://www.youtube.com/watch?v=j9y0gfN9WMg)
 
 Time Stamps: <br>
 &nbsp;&nbsp; 26:24 - 29:32 Characteristics of MEMS
@@ -193,7 +193,7 @@ The distinctive features of MEMS :
 Remote Sensing
 -----------
 <b>Video: </b><br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/N49PzLDUIFQ/5.jpg)](http://www.youtube.com/watch?v=N49PzLDUIFQ)
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/N49PzLDUIFQ/hqdefault.jpg)](http://www.youtube.com/watch?v=N49PzLDUIFQ)
 
 Time Stamps: <br>
 &nbsp;&nbsp; 0:30 - 3:08 Fundamentals of Remote Sensing
@@ -206,6 +206,28 @@ In this video, we learn about the term remote sensing. As it was coined by the U
 
 Auditory Systems
 -----------
+<b>Video: </b><br>
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/SU_aecxckRg/hqdefault.jpg)](http://www.youtube.com/watch?v=SU_aecxckRg)
+
+Time Stamps: <br>
+&nbsp;&nbsp; 0:00 - 2:36 Auditory Systems
+
+<b>Description:</b> <br>
+<p>
+The human auditory system is composed of three parts. The outer ear , the middle ear and the inner ear. Let's see how it works. 
+
+The sound waves are picked up by the ear pavilion of the outer ear . They are then amplified and transmitted to the middle ear through the external ear canal . This movement of the sound makes this small membrane called the eardrum vibrate.  
+
+These vibrations are transmitted to the ossicles located in the middle ear. The ossicles are the smallest bones in the human body.  They are composed of the malleus, which transmits the vibrations to the incus then to the stapes which acts as a piston that compresses the fluid of the inner ear . 
+
+The cochlea is the main organ of auditory perception.  It contains between 15 to 20 thousand hair cells that detect vibrations of the liquid and generate nerve impulses that are sent to the brain via the auditory nerve.
+
+But this system is fragile and can suffer failures, we call this hearing loss two of which are conduction hearing loss and sensorineural hearing loss. 
+
+Conduction hearing loss can be caused by an obstruction in the ear canal , such as ear wax, a perforated eardrum , a malfunction of the ossicles , otitis or fluid in the middle ear. This type of loss can often be resolved by medical intervention and represents only 10 % of cases of hearing loss.
+
+The second type of loss, sensorineural hearing loss represents 90 % of cases. It results from the destruction of hair cells in the cochlea. It is often due to aging, can be genetic or the consequence of repeated exposure to very loud sound. This type of loss is irreversible, yes, it's a shame, but can often be compensated by hearing aids.
+</p>
 
 Properties Of Systems
 =================
@@ -214,7 +236,7 @@ Memory
 -----------
 
 Video:
-[![Watch the video](https://img.youtube.com/vi/4PUcOf0koxw/7.jpg)](https://www.youtube.com/watch?v=4PUcOf0koxw)
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/4PUcOf0koxw/hqdefault.jpg)](http://www.youtube.com/watch?v=4PUcOf0koxw)
 
 Description:
 
