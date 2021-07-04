@@ -32,7 +32,6 @@ Table of contents
         * [Closed loop](#closed-loop)
      * [MEMS](#mems)
      * [Remote Sensing](#remote-sensing)
-     * [Biomedical signal processing](#biomedical-signal-processing)
      * [Auditory Systems](#auditory-systems)  
    * [Properties Of Systems](#properties-of-systems)
       * [Memory](#memory)
@@ -71,7 +70,6 @@ Time stamps: <br>
 In this Video, he described the system as a source which manipulates the given input signal. With a system we can perform many operations on input signals and get the desired output.
 He also mentioned the types 0f systems which are continuous and discrete systems. And then he discusses them.
 </p>
-
 Block Diagram
 -----------
 
@@ -175,8 +173,8 @@ Closed loop:
 MEMS
 -----------
 
-<b>Video: </b> <br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/j9y0gfN9WMg/4.jpg)](http://www.youtube.com/watch?v=j9y0gfN9WMg)
+<b>Video: </b><br>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/v=j9y0gfN9WMg/4.jpg)](http://www.youtube.com/watch?v=j9y0gfN9WMg)
 
 Time Stamps: <br>
 &nbsp;&nbsp; 26:24 - 29:32 Characteristics of MEMS
@@ -185,18 +183,26 @@ Time Stamps: <br>
 <p>
 Micro Electro-Mechanical Systems are devices built with micro sensors and mechanical parts along signal processing circuits. These devices provide a channel between computing systems and the physical world. Basic I/O ’s are built using MEMS. They provide I/O to information systems like sensing and creating motion, radio waves etc. 
 The distinctive features of MEMS :
-1. Miniaturization <br>
-2. Multiplicity <br>
-3. Microelectronics. <br>
+1. Miniaturization 
+2. Multiplicity
+3. Microelectronics.
 
 </p>
 
 
 Remote Sensing
 -----------
+<b>Video: </b><br>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/N49PzLDUIFQ/5.jpg)](http://www.youtube.com/watch?v=N49PzLDUIFQ)
 
-Biomedical signal processing
------------
+Time Stamps: <br>
+&nbsp;&nbsp; 0:30 - 3:08 Fundamentals of Remote Sensing
+
+<b>Description:</b><br>
+<p>
+In this video, we learn about the term remote sensing. As it was coined by the US scientist Evelyn L. Pruitt, the term remote sensing means understanding or studying the information of the characteristics of an object or phenomena through a recording device without any physical contact.
+</p>
+
 
 Auditory Systems
 -----------
