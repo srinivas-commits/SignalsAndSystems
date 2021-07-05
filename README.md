@@ -75,8 +75,7 @@ Block Diagram
 -----------
 
 <b>Video: </b> <br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/X4hPVxZlrPU/1.jpg)](http://www.youtube.com/watch?v=X4hPVxZlrPU)
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/X4hPVxZlrPU/0.jpg)](http://www.youtube.com/watch?v=X4hPVxZlrPU)
 Time Stamps: <br>
 &nbsp;&nbsp; 0:42 - 4:22 Introduction of the Mechanism of Block Diagrams <br>
 
@@ -100,7 +99,7 @@ Communication Systems
 -----------
 
 <b>Video: </b> <br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qhjj6WG7Rgc/2.jpg)](http://www.youtube.com/watch?v=qhjj6WG7Rgc)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qhjj6WG7Rgc/0.jpg)](http://www.youtube.com/watch?v=qhjj6WG7Rgc)
 
 Time Stamps: <br>
 &nbsp;&nbsp; 1:34 - 8:32 Basic Structure of Block Diagrams <br>
@@ -150,7 +149,7 @@ Control Systems
 -----------
 
 <b>Video: </b> <br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/O-OqgFE9SD4/3.jpg)](http://www.youtube.com/watch?v=O-OqgFE9SD4)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/O-OqgFE9SD4/2.jpg)](http://www.youtube.com/watch?v=O-OqgFE9SD4)
 
 Time Stamps: <br>
 &nbsp;&nbsp; 0:00 - 1:14 Open Loop
