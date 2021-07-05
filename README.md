@@ -244,8 +244,8 @@ Memory
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/4PUcOf0koxw/hqdefault.jpg)](http://www.youtube.com/watch?v=4PUcOf0koxw)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 7:21 - 10:58 Memory of System and Memoryless System
-&nbsp;&nbsp; 1:05 - 15:50 Memory System 
+&nbsp;&nbsp; 7:21 - 10:58 &emsp; Memory of System and Memoryless System <br>
+&nbsp;&nbsp; 1:05 - 15:50 &emsp; Memory System <br>
 
 <b>Description: </b> <br>
 
@@ -253,14 +253,14 @@ Time Stamps: <br>
 The input from the past and future has no influence on the output of the system.
 
 Ex: A resistor is memoryless, since the current i(t) flowing through it in response to the applied voltage v(t) is defined by <br />
-![pic1](https://user-images.githubusercontent.com/54907384/124416411-9030e380-dd74-11eb-8aed-cb313be15533.png) where R is resistance of the resistor.</p>
+&emsp; ![pic1](https://user-images.githubusercontent.com/54907384/124416411-9030e380-dd74-11eb-8aed-cb313be15533.png) where R is resistance of the resistor.</p>
 
 <b>Memory System:</b> <p>
 In contrast, the system is said to possess memory if its output signal depends on past or future values of input signal.
 These systems are opposite of memory systems.
 
 Ex: An inductor has memory, since the current i(t) flowing through it is related to the applied voltage v(t) by <br />
-![pic2](https://user-images.githubusercontent.com/54907384/124416946-bb680280-dd75-11eb-8ff9-a1062a25bb4a.png) where L is inductance of th inductor.</p>
+&emsp;&emsp; ![pic2](https://user-images.githubusercontent.com/54907384/124416946-bb680280-dd75-11eb-8ff9-a1062a25bb4a.png) where L is inductance of th inductor.</p>
 
 Stability
 -----------
@@ -269,7 +269,8 @@ Stability
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/a3b_2VVmkPA/hqdefault.jpg)](http://www.youtube.com/watch?v=a3b_2VVmkPA)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 0:43 - 8:55 Stability stable & Unstable system
+&nbsp;&nbsp; 0:43 - 8:55 &emsp; Stability stable & Unstable system <br>
+&nbsp;&nbsp; 11:46 - 20:33 &emsp; BIBO Stable <br>
 
 <b>Description: </b> <br>
 
@@ -282,11 +283,11 @@ whenever the input of the system satisfies the condition
 Both Mx and My represent some finite positive numbers.</p>
 
 <b>Unstable system:</b> <p>A system is said to be unstable if it is not a stable system. <br />
-Ex:  ![pic5](https://user-images.githubusercontent.com/54907384/124418772-da689380-dd79-11eb-9fbf-7035ad0d3e57.png)
+Ex: &emsp; &emsp; ![pic5](https://user-images.githubusercontent.com/54907384/124418772-da689380-dd79-11eb-9fbf-7035ad0d3e57.png)
 
-Lets assume the input is bounded and satisfies the condition.
+Lets assume the input is bounded and satisfies the condition. &emsp;
 ![pic6](https://user-images.githubusercontent.com/54907384/124418880-0c79f580-dd7a-11eb-9236-2d9232dd810e.png) <br />
-Then we can find that
+Then we can find that &emsp;
 ![pic7](https://user-images.githubusercontent.com/54907384/124418897-16035d80-dd7a-11eb-92f8-2e25cc41a655.png) <br />
 
 ** When <b>r ≥ 1</b>, r^n increases as n increases and the magnitude of y[n] increases, thus violates the bibo stable condition. So, the system is  unstable.
@@ -300,7 +301,7 @@ Linearity
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/wOQDGvCLOs8/hqdefault.jpg)](http://www.youtube.com/watch?v=wOQDGvCLOs8)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 0:51 - 9:10 Linearity superposition
+&nbsp;&nbsp; 0:51 - 9:10 &emsp; Linearity superposition <br>
 <b>Description: </b> <br>
 
  <b>Linear system:</b> <p>A system is said to be linear (in both continuous-time and discrete-time) if it satisfies the two properties of superposition and homogeneity.</p>
@@ -312,10 +313,10 @@ Time Stamps: <br>
 Ex: y[n] = n.x[n] is a linear system, because it satisfies both  superposition principle and homogeneity property.
 
 If input x[n] is expressed as weighted sum <br />
-![pic8](https://user-images.githubusercontent.com/54907384/124420704-95def700-dd7d-11eb-81a3-8313e6bc3f7f.png) <br />
+&emsp; &emsp; &emsp; ![pic8](https://user-images.githubusercontent.com/54907384/124420704-95def700-dd7d-11eb-81a3-8313e6bc3f7f.png) <br />
 then the resulting output will be <br />
-![pic9](https://user-images.githubusercontent.com/54907384/124420750-a4c5a980-dd7d-11eb-9dd8-6e2accc59f8a.png) <br />
-![pic10](https://user-images.githubusercontent.com/54907384/124420785-b60eb600-dd7d-11eb-8606-8feadc43ec50.png)
+&emsp; &emsp; &emsp; ![pic9](https://user-images.githubusercontent.com/54907384/124420750-a4c5a980-dd7d-11eb-9dd8-6e2accc59f8a.png) <br />
+&emsp; &emsp; &emsp; ![pic10](https://user-images.githubusercontent.com/54907384/124420785-b60eb600-dd7d-11eb-8606-8feadc43ec50.png)
 
 <b>Non-linear System:</b> <p>If the system violates either of the superposition principle or homogeneity property, then it is said to be a Non-linear system.
 
@@ -336,18 +337,18 @@ Causality
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/mqwUtn5cip8/hqdefault.jpg)](http://www.youtube.com/watch?v=mqwUtn5cip8)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 00:58 - 07:00 Causal System
-&nbsp;&nbsp; 07:01 - 08:30  Non-causal System
+&nbsp;&nbsp; 00:58 - 07:00 &emsp; Causal System <br>
+&nbsp;&nbsp; 07:01 - 08:30 &emsp; Non-causal System <br>
 
 <b>Description: </b> <br>
 
 <b>Causal System:</b> <p>A system is said to be causal (in both continuous-time and discrete-time) if the present value of the output signal depends only on the present or past values of the input signal.</p>
 
-Ex: ![pic11](https://user-images.githubusercontent.com/54907384/124421206-8f9d4a80-dd7e-11eb-974b-8ccf2831968c.png)
+Ex: &emsp; &emsp; ![pic11](https://user-images.githubusercontent.com/54907384/124421206-8f9d4a80-dd7e-11eb-974b-8ccf2831968c.png)
 
 <b>Non-causal System:</b> <p>A system is said to be non-causal if it is not a causal system.</p>
 
-Ex: ![pic12](https://user-images.githubusercontent.com/54907384/124421229-9e83fd00-dd7e-11eb-8172-d2c8f7574ecb.png)
+Ex: &emsp; &emsp; ![pic12](https://user-images.githubusercontent.com/54907384/124421229-9e83fd00-dd7e-11eb-8172-d2c8f7574ecb.png)
 
 Invertibility
 -----------
@@ -355,23 +356,23 @@ Invertibility
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/06-xo-xAELs/hqdefault.jpg)](http://www.youtube.com/watch?v=06-xo-xAELs)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 00:51 - 08:24 Inverse of a system
-&nbsp;&nbsp; 08:26 - 10:11 Non-Inverse of system
+&nbsp;&nbsp; 00:51 - 08:24 &emsp; Inverse of a system <br>
+&nbsp;&nbsp; 08:26 - 10:11 &emsp; Non-Inverse of system <br>
 
 <b>Description: </b> <br>
 
 <b>Invertibile System:</b> <p>A system is said to be Invertible (in both continuous-time and discrete-time) if the input of the system can be recovered from the output. <br />
 If H is impulse response of a system, then there should exist another system with impulse response Hinv such that <br />
-    ![Screenshot from 2021-07-05 10-50-59](https://user-images.githubusercontent.com/54907384/124421372-f6226880-dd7e-11eb-9483-3f8444f7c725.png)
+   &emsp; &emsp; &emsp; ![Screenshot from 2021-07-05 10-50-59](https://user-images.githubusercontent.com/54907384/124421372-f6226880-dd7e-11eb-9483-3f8444f7c725.png)
 Where I is a identity operator. <br />
 
-![aaaaa](https://user-images.githubusercontent.com/54907384/124421423-105c4680-dd7f-11eb-9ffe-9cd774f096e3.png)
+&emsp; &emsp; &emsp; ![aaaaa](https://user-images.githubusercontent.com/54907384/124421423-105c4680-dd7f-11eb-9ffe-9cd774f096e3.png) <br />
 Ex: 
         y(t) = 2x(t)
 
 <b>Non-invertibile System:</b> A system is said to be Non-invertible if the input of system is not recoverable. i.e., there doesn’t exist a system with impulse response Hinv. 
 
-Ex: ![Screenshot from 2021-07-05 10-52-58](https://user-images.githubusercontent.com/54907384/124421494-308c0580-dd7f-11eb-9bc7-f31b99268fa4.png) </p>
+Ex: &emsp; ![Screenshot from 2021-07-05 10-52-58](https://user-images.githubusercontent.com/54907384/124421494-308c0580-dd7f-11eb-9bc7-f31b99268fa4.png) </p>
 
 Time Invariance
 -----------
@@ -379,7 +380,7 @@ Time Invariance
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/LezLNMznZm4/hqdefault.jpg)](http://www.youtube.com/watch?v=LezLNMznZm4)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 00:13 - 04:19 Time-Invariance
+&nbsp;&nbsp; 00:13 - 04:19 &emsp; Time-Invariance <br>
 
 <b>Description: </b> <br>
 
@@ -394,7 +395,7 @@ y(t) = t.x(t)
 ![Screenshot from 2021-07-05 10-56-11](https://user-images.githubusercontent.com/54907384/124421725-b14b0180-dd7f-11eb-805a-7778f2c6a81a.png)
 
 Ex:
-![Screenshot from 2021-07-05 10-56-17](https://user-images.githubusercontent.com/54907384/124421705-a6906c80-dd7f-11eb-950f-34da4430611c.png)
+&emsp; &emsp; ![Screenshot from 2021-07-05 10-56-17](https://user-images.githubusercontent.com/54907384/124421705-a6906c80-dd7f-11eb-950f-34da4430611c.png)
 
 LTI Systems
 =================
