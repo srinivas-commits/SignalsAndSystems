@@ -157,8 +157,8 @@ Control Systems
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/O-OqgFE9SD4/3.jpg)](http://www.youtube.com/watch?v=O-OqgFE9SD4)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 0:00 - 1:14 Open Loop
-&nbsp;&nbsp; 3:38 - 4:10 Closed Loop
+&nbsp;&nbsp; 0:00 - 1:14 Open Loop <br>
+&nbsp;&nbsp; 3:38 - 4:10 Closed Loop <br>
 
 <b>Description:</b> <br>
 <p>
@@ -208,6 +208,18 @@ Time Stamps: <br>
 In this video, we learn about the term remote sensing. As it was coined by the US scientist Evelyn L. Pruitt, the term remote sensing means understanding or studying the information of the characteristics of an object or phenomena through a recording device without any physical contact.
 </p>
 
+Biomedical Signal Processing
+-------------------------------
+<b>Video: </b><br>
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/l9GBf0sTk4s/hqdefault.jpg)](http://www.youtube.com/watch?v=l9GBf0sTk4s)
+
+Time Stamps: <br>
+&nbsp;&nbsp; 4:03 - 11:55 Signal Processing(Block Diagram)
+
+<b>Description:</b> <br>
+<p>
+Biomedical signals are the observations of physical activities of various human body systems. Biomedical signals have two characteristics, they are: number of points used to collect data, type of potential. And also discussed the processing of a biomedical signal.	
+</p>
 
 Auditory Systems
 -----------
@@ -491,8 +503,8 @@ Laplace transform causality constraints
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/5PbNR3TdFWU/hqdefault.jpg)](https://www.youtube.com/watch?v=5PbNR3TdFWU)
 
 Time Stamps: <br>
-&nbsp;&nbsp; (1:20-5:00) Introduction to Stable and Causal Laplace Transform
-(5:00-11:50)- Causality Condition in DETAIL
+&nbsp;&nbsp; 1:20 - 5:00 Introduction to Stable and Causal Laplace Transform <br>
+&nbsp;&nbsp; 5:00 - 11:50 Causality Condition in DETAIL
 
 
 <b>Description:</b> <br>
@@ -517,8 +529,8 @@ Z transform and causality, stability
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/WoPB-s6V8X0/hqdefault.jpg)](https://www.youtube.com/watch?v=WoPB-s6V8X0)
 
 Time Stamps: <br>
-&nbsp;&nbsp; (0:00-2:50) Introduction to Causality
-(8:15-11:28) Causality Condition in Z-Transforms in DETAIL
+&nbsp;&nbsp; 0:00 - 2:50 Introduction to Causality <br>
+&nbsp;&nbsp; 8:15 - 11:28 Causality Condition in Z-Transforms in DETAIL <br>
 
 
 <b>Description:</b> <br>
