@@ -409,6 +409,11 @@ Time Stamps: <br>
 
 <b>Description: </b> <br>
 	
+<p>&emsp;LTI system is composed of 2 types of systems, <b>linear system</b> and <b>time-invariant system</b>, and possess the properties of both systems.<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;![Screenshot from 2021-07-05 12-03-32](https://user-images.githubusercontent.com/54907384/124427467-0d665380-dd89-11eb-8a7d-785cc938efc3.png) </p>
+
+
+	
 Impulse response of LTI
 -----------
 
@@ -442,7 +447,8 @@ Time Stamps: <br>
 <b>Description: </b> <br>
 
 <p>As per video, <b>Frequency response</b> tells how the system responds to <b>sinusoids of different frequencies</b>. <br />
-&emsp;&emsp;&emsp;&emsp; ![Screenshot from 2021-07-05 11-42-52](https://user-images.githubusercontent.com/54907384/124425445-30433880-dd86-11eb-9c73-54abdc5d37d3.png)</p>
+&emsp;&emsp;&emsp;&emsp; ![Screenshot from 2021-07-05 12-00-44](https://user-images.githubusercontent.com/54907384/124427250-c11b1380-dd88-11eb-9710-0b3e4707897d.png)
+</p>
 
 
 Relationship between Frequency and Impulse Response
