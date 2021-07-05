@@ -370,7 +370,7 @@ In this video, we learn about laplace transform conditions for a system to be ca
 For a system h(t) to be causal h(t) = 0, t < 0
 For a system h(t) to be stable it needs to satisfy BIBO condition,
 
-<img src="https://render.githubusercontent.com/render/math?math=\int_{-\infty }^{\infty }|h(t)|dt<\infty">
+<img src="https://render.githubusercontent.com/render/math?math=\int_{-\infty }^{\infty }|h(t)|\, dt<\infty">
 
 Causal systems are regions of convergence in s domain that are right sided including infinity conditions.
 I.e, laplace transform X(s) =  <img src="https://render.githubusercontent.com/render/math?math=\int_{0}^{\infty }h(t)e^{-st}\, dt">
