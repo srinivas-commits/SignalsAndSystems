@@ -32,6 +32,7 @@ Table of contents
         * [Closed loop](#closed-loop)
      * [MEMS](#mems)
      * [Remote Sensing](#remote-sensing)
+     * [Biomedical Signal Processing](#biomedical-signal-processing)
      * [Auditory Systems](#auditory-systems)  
    * [Properties Of Systems](#properties-of-systems)
       * [Memory](#memory)
@@ -46,6 +47,9 @@ Table of contents
       * [Frequency response of LTI](#frequency-response-of-lti)
       * [Relationship between Frequency and Impulse Response](#relationship-between-frequency-and-impulse-response)
       * [Difference equation Representation of LTI System](#difference-equation-representation-of-lti-system)
+   * [Causality](#causality)
+      * [Laplace transform causality constraints](#laplace-transform-causality-constraints)
+      * [Z transform and causality, stability](#z-transform-and-causality-stability)
    * [Integration of Systems](#integration-of-systems)
       * [Cascading](#cascading)
       * [Parallel](#parallel)
@@ -75,7 +79,8 @@ Block Diagram
 -----------
 
 <b>Video: </b> <br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/X4hPVxZlrPU/0.jpg)](http://www.youtube.com/watch?v=X4hPVxZlrPU)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/X4hPVxZlrPU/1.jpg)](http://www.youtube.com/watch?v=X4hPVxZlrPU)
+
 Time Stamps: <br>
 &nbsp;&nbsp; 0:42 - 4:22 Introduction of the Mechanism of Block Diagrams <br>
 
@@ -99,7 +104,7 @@ Communication Systems
 -----------
 
 <b>Video: </b> <br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qhjj6WG7Rgc/0.jpg)](http://www.youtube.com/watch?v=qhjj6WG7Rgc)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qhjj6WG7Rgc/2.jpg)](http://www.youtube.com/watch?v=qhjj6WG7Rgc)
 
 Time Stamps: <br>
 &nbsp;&nbsp; 1:34 - 8:32 Basic Structure of Block Diagrams <br>
@@ -149,7 +154,7 @@ Control Systems
 -----------
 
 <b>Video: </b> <br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/O-OqgFE9SD4/0.jpg)](http://www.youtube.com/watch?v=O-OqgFE9SD4)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/O-OqgFE9SD4/3.jpg)](http://www.youtube.com/watch?v=O-OqgFE9SD4)
 
 Time Stamps: <br>
 &nbsp;&nbsp; 0:00 - 1:14 Open Loop
@@ -343,20 +348,96 @@ Difference equation Representation of LTI System
 
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/mRfFUUwfcG0/hqdefault.jpg)](http://www.youtube.com/watch?v=mRfFUUwfcG0)
 
+
+Causality
+=================
+
+Laplace transform causality constraints
+-----------
+
+<b>Video: </b><br>
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/SU_aecxckRg/hqdefault.jpg)](http://www.youtube.com/watch?v=SU_aecxckRg)
+
+Time Stamps: <br>
+&nbsp;&nbsp; 0:00 - 2:36 Auditory Systems
+
+<b>Description:</b> <br>
+<p>
+
+In this video, we learn about laplace transform conditions for a system to be causal. 
+For a system h(t) to be causal h(t) = 0, t < 0
+For a system h(t) to be stable it needs to satisfy BIBO condition,  -∞∞ h(t)dt < ∞ 
+\int_{-\infty }^{\infty }|h(t)|dt<\infty 
+Causal systems are regions of convergence in s domain that are right sided including infinity conditions.
+	I.e, laplace transform X(s) =  
+  		=0∞ h(t)e-stdt;
+
+</p>
+
+Z transform and causality, stability
+-----------
+
+<b>Video: </b><br>
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/SU_aecxckRg/hqdefault.jpg)](http://www.youtube.com/watch?v=SU_aecxckRg)
+
+Time Stamps: <br>
+&nbsp;&nbsp; 0:00 - 2:36 Auditory Systems
+
+<b>Description:</b> <br>
+<p>
+
+In this video, we learn that a discrete time LTI system with function H(z) is causal if and only if the ROC is the exterior of a circle outside the outermost pole. 
+
+A causal LTI system with function H(z) is stable if and only if 
+all the poles of H(z) lie inside the unit circle, i.e, they all must have magnitude smaller than 1. 
+An LTI system is stable if and only if the ROC of its system function H(z) includes the unit circle |z| = 1.
+
+</p>
+
 Integration of Systems
 =================
 
 Cascading
 -----------
 
+<b>Video: </b><br>
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/5-LWNQkIzS8/hqdefault.jpg)](http://www.youtube.com/watch?v=5-LWNQkIzS8)
+
+Time Stamps: <br>
+&nbsp;&nbsp; 0:00 - 2:36 Auditory Systems
+
+<b>Description:</b> <br>
+<p>
+A cascaded system is a series or sequential arrangement of objects. In the video, measuring the resultant response of the system in a general cascaded system. 
+H(z) = H1(z) x H2(z) x ….. x Hn(z).
+</p>
 
 Parallel
 -----------
 
+<b>Video: </b><br>
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/5-LWNQkIzS8/hqdefault.jpg)](http://www.youtube.com/watch?v=5-LWNQkIzS8)
+
+Time Stamps: <br>
+&nbsp;&nbsp; 0:00 - 2:36 Auditory Systems
+
+<b>Description:</b> <br>
+<p>
+A Parallel system is a parallel arrangement of objects. In the video, measuring the resultant response of the system in a general cascaded system.
+H(z) = H1(z) + H2(z) + H3(z) +...... + Hn(z).
+</p>
 
 Feedback
 -----------
 
+<b>Video: </b><br>
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/ua4eMZTxpQ0/hqdefault.jpg)](http://www.youtube.com/watch?v=ua4eMZTxpQ0)
+
+Time Stamps: <br>
+&nbsp;&nbsp; 0:00 - 2:36 Auditory Systems
+
+<b>Description:</b> <br>
+<p>
+Back in 1920, Bell Labs proposed the theory of feedback where the output is given as a limiter or remainder for the flow of input so that we can control the input and system. 
+Feedback is the design technique where a portion of the amplifier output "feeds back" to the input of the amplifier. The overall effect creates a very stable gain factor determined by resistor ratios.
+</p>	
