@@ -446,9 +446,9 @@ Time Stamps: <br>
 
 <b>Description: </b> <br>
 
-<p>As per video, <b>Frequency response</b> tells how the system responds to <b>sinusoids of different frequencies</b>. <br />
+As per video, <b>Frequency response</b> tells how the system responds to <b>sinusoids of different frequencies</b>. <br>
 &emsp;&emsp;&emsp;&emsp; ![Screenshot from 2021-07-05 12-00-44](https://user-images.githubusercontent.com/54907384/124427250-c11b1380-dd88-11eb-9710-0b3e4707897d.png)
-</p>
+
 
 
 Relationship between Frequency and Impulse Response
