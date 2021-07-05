@@ -149,7 +149,7 @@ Control Systems
 -----------
 
 <b>Video: </b> <br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/O-OqgFE9SD4/2.jpg)](http://www.youtube.com/watch?v=O-OqgFE9SD4)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/O-OqgFE9SD4/0.jpg)](http://www.youtube.com/watch?v=O-OqgFE9SD4)
 
 Time Stamps: <br>
 &nbsp;&nbsp; 0:00 - 1:14 Open Loop
