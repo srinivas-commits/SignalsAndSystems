@@ -393,8 +393,7 @@ Ex: &emsp; y(t) = t.x(t)
 <b>Time variant system:</b> A System is said to time variant if it is not a  time invariant system. i.e., the time delay or time advance of the input may not be identical to the time shift of the output. For the time variant system &emsp;
 ![Screenshot from 2021-07-05 10-56-11](https://user-images.githubusercontent.com/54907384/124421725-b14b0180-dd7f-11eb-805a-7778f2c6a81a.png)
 
-Ex:
-&emsp; &emsp; ![Screenshot from 2021-07-05 10-56-17](https://user-images.githubusercontent.com/54907384/124421705-a6906c80-dd7f-11eb-950f-34da4430611c.png)
+Ex:&emsp; &emsp; ![Screenshot from 2021-07-05 10-56-17](https://user-images.githubusercontent.com/54907384/124421705-a6906c80-dd7f-11eb-950f-34da4430611c.png)
 
 LTI Systems
 =================
@@ -410,9 +409,7 @@ Time Stamps: <br>
 <b>Description: </b> <br>
 	
 <p>&emsp;LTI system is composed of 2 types of systems, <b>linear system</b> and <b>time-invariant system</b>, and possess the properties of both systems.<br />
-&emsp;&emsp;&emsp;&emsp;&emsp;![Screenshot from 2021-07-05 12-03-32](https://user-images.githubusercontent.com/54907384/124427467-0d665380-dd89-11eb-8a7d-785cc938efc3.png) </p>
-
-
+&emsp;&emsp;&emsp;&emsp;&emsp; [aaaaab](https://user-images.githubusercontent.com/54907384/124428118-e5c3bb00-dd89-11eb-82e2-fd1c1870c0a3.png) </p>
 	
 Impulse response of LTI
 -----------
