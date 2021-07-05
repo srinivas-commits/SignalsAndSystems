@@ -244,8 +244,8 @@ Memory
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/4PUcOf0koxw/hqdefault.jpg)](http://www.youtube.com/watch?v=4PUcOf0koxw)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 7:21 - 10:58 &emsp; Memory of System and Memoryless System <br>
-&nbsp;&nbsp; 1:05 - 15:50 &emsp; Memory System <br>
+&emsp;&nbsp; 7:21 - 10:58 &emsp; Memory of System and Memoryless System <br>
+&emsp;&nbsp; 1:05 - 15:50 &emsp; Memory System <br>
 
 <b>Description: </b> <br>
 
@@ -253,7 +253,7 @@ Time Stamps: <br>
 The input from the past and future has no influence on the output of the system.
 
 Ex: A resistor is memoryless, since the current i(t) flowing through it in response to the applied voltage v(t) is defined by <br />
-&emsp; ![pic1](https://user-images.githubusercontent.com/54907384/124416411-9030e380-dd74-11eb-8aed-cb313be15533.png) where R is resistance of the resistor.</p>
+&emsp; &emsp;![pic1](https://user-images.githubusercontent.com/54907384/124416411-9030e380-dd74-11eb-8aed-cb313be15533.png) where R is resistance of the resistor.</p>
 
 <b>Memory System:</b> <p>
 In contrast, the system is said to possess memory if its output signal depends on past or future values of input signal.
@@ -269,8 +269,8 @@ Stability
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/a3b_2VVmkPA/hqdefault.jpg)](http://www.youtube.com/watch?v=a3b_2VVmkPA)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 0:43 - 8:55 &emsp; Stability stable & Unstable system <br>
-&nbsp;&nbsp; 11:46 - 20:33 &emsp; BIBO Stable <br>
+&emsp;&nbsp; 0:43 - 8:55 &emsp; Stability stable & Unstable system <br>
+&emsp;&nbsp; 11:46 - 20:33 &emsp; BIBO Stable <br>
 
 <b>Description: </b> <br>
 
@@ -301,7 +301,7 @@ Linearity
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/wOQDGvCLOs8/hqdefault.jpg)](http://www.youtube.com/watch?v=wOQDGvCLOs8)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 0:51 - 9:10 &emsp; Linearity superposition <br>
+&emsp;&nbsp; 0:51 - 9:10 &emsp; Linearity superposition <br>
 <b>Description: </b> <br>
 
  <b>Linear system:</b> <p>A system is said to be linear (in both continuous-time and discrete-time) if it satisfies the two properties of superposition and homogeneity.</p>
@@ -310,7 +310,7 @@ Time Stamps: <br>
 
 <b>Homogeneity:</b> <p>Consider a system that is initially at rest, and an input x(t) results in output y(t). Then for the system to exhibit the homogeneity property, whenever the system x(t) is scaled by a constant a. The ouput y(t) should also be scaled by the exact constant a (i.e., if input is a.x(t), then output must be a.y(t) ).</p>
 
-Ex: y[n] = n.x[n] is a linear system, because it satisfies both  superposition principle and homogeneity property.
+Ex: &emsp; y[n] = n.x[n] is a linear system, because it satisfies both  superposition principle and homogeneity property.
 
 If input x[n] is expressed as weighted sum <br />
 &emsp; &emsp; &emsp; ![pic8](https://user-images.githubusercontent.com/54907384/124420704-95def700-dd7d-11eb-81a3-8313e6bc3f7f.png) <br />
@@ -321,15 +321,15 @@ then the resulting output will be <br />
 <b>Non-linear System:</b> <p>If the system violates either of the superposition principle or homogeneity property, then it is said to be a Non-linear system.
 
 Ex:
-      y(t) = x(t) + 2t <br />
-      First we will check superposition theorem <br />
-          y1(t) = x1(t) + 2t <br />
-          y2(t) = x2(t) + 2t <br />
-          y1(t) + y2(t) = x1(t) + x2(t) + 4t <br />
+      &emsp;&emsp;y(t) = x(t) + 2t <br />
+     &emsp;&emsp; First we will check superposition theorem <br />
+      &emsp;&emsp;&emsp;    y1(t) = x1(t) + 2t <br />
+      &emsp;&emsp;&emsp;    y2(t) = x2(t) + 2t <br />
+     &emsp;&emsp;&emsp;     y1(t) + y2(t) = x1(t) + x2(t) + 4t <br />
 
-      When input x(t) = x1(t) + x2(t), <br />
-                 y(t) = x1(t) + x2(t) + 2t <br />
-Since, both are not equal, the system is Non-linear.</p>
+&emsp;&emsp;When input x(t) = x1(t) + x2(t), <br />
+&emsp;&emsp;&emsp;y(t) = x1(t) + x2(t) + 2t <br />
+&emsp;&emsp;Since, both are not equal, the system is Non-linear.</p>
 	
 Causality
 -----------
@@ -337,8 +337,8 @@ Causality
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/mqwUtn5cip8/hqdefault.jpg)](http://www.youtube.com/watch?v=mqwUtn5cip8)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 00:58 - 07:00 &emsp; Causal System <br>
-&nbsp;&nbsp; 07:01 - 08:30 &emsp; Non-causal System <br>
+&emsp;&nbsp; 00:58 - 07:00 &emsp; Causal System <br>
+&emsp;&nbsp; 07:01 - 08:30 &emsp; Non-causal System <br>
 
 <b>Description: </b> <br>
 
@@ -356,8 +356,8 @@ Invertibility
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/06-xo-xAELs/hqdefault.jpg)](http://www.youtube.com/watch?v=06-xo-xAELs)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 00:51 - 08:24 &emsp; Inverse of a system <br>
-&nbsp;&nbsp; 08:26 - 10:11 &emsp; Non-Inverse of system <br>
+&emsp;&nbsp; 00:51 - 08:24 &emsp; Inverse of a system <br>
+&emsp;&nbsp; 08:26 - 10:11 &emsp; Non-Inverse of system <br>
 
 <b>Description: </b> <br>
 
@@ -367,7 +367,7 @@ If H is impulse response of a system, then there should exist another system wit
 Where I is a identity operator. <br />
 
 &emsp; &emsp; &emsp; ![aaaaa](https://user-images.githubusercontent.com/54907384/124421423-105c4680-dd7f-11eb-9ffe-9cd774f096e3.png) <br />
-Ex: 
+Ex: &emsp;
         y(t) = 2x(t)
 
 <b>Non-invertibile System:</b> A system is said to be Non-invertible if the input of system is not recoverable. i.e., there doesn’t exist a system with impulse response Hinv. 
@@ -380,18 +380,17 @@ Time Invariance
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/LezLNMznZm4/hqdefault.jpg)](http://www.youtube.com/watch?v=LezLNMznZm4)
 
 Time Stamps: <br>
-&nbsp;&nbsp; 00:13 - 04:19 &emsp; Time-Invariance <br>
+&emsp;&nbsp; 00:13 - 04:19 &emsp; Time-Invariance <br>
 
 <b>Description: </b> <br>
 
 <b>Time invariant system:</b> <p>A System is said to be time invariant if a time delay or time advance of the input signal leads to an identical time shift in the output signal. i.e., the time invariant system responds identically no matter when the signal is applied.
-If H is impulse response of the system, and St0 represents a time shift of t0 seconds. Then, time invariant system satisfies
+If H is impulse response of the system, and St0 represents a time shift of t0 seconds. Then, time invariant system satisfies &emsp;
 ![Screenshot from 2021-07-05 10-54-51](https://user-images.githubusercontent.com/54907384/124421610-734ddd80-dd7f-11eb-8bb7-057f73533e27.png)
 
-Ex:
-y(t) = t.x(t)
+Ex: &emsp; y(t) = t.x(t)
 
-<b>Time variant system:</b> A System is said to time variant if it is not a  time invariant system. i.e., the time delay or time advance of the input may not be identical to the time shift of the output. For the time variant system <br />
+<b>Time variant system:</b> A System is said to time variant if it is not a  time invariant system. i.e., the time delay or time advance of the input may not be identical to the time shift of the output. For the time variant system &emsp;
 ![Screenshot from 2021-07-05 10-56-11](https://user-images.githubusercontent.com/54907384/124421725-b14b0180-dd7f-11eb-805a-7778f2c6a81a.png)
 
 Ex:
