@@ -1,21 +1,6 @@
 Signals And Systems
 =================
 
-******
-To add pictures to the link :
-
-Website for picture, https://img.youtube.com/vi/[---------]/maxresdefault.jpg
-
-For the above link, replace [---------] with youtube link code<br>
-Code for this youtube link, https://www.youtube.com/watch?v=FhVQjuAtlTs, code is: FhVQjuAtlTs
-
-<a href="https://github.com/zzossig/hugo-theme-zzo/issues/88" target="_blank">external link</a>
-
-Ex:
-
-[![Watch the video](https://img.youtube.com/vi/4PUcOf0koxw/maxresdefault.jpg)](https://youtu.be/4PUcOf0koxw)
-
-****
 
 Table of contents
 =================
@@ -28,8 +13,6 @@ Table of contents
      * [Block Diagram](#block-diagram)
      * [Communication Systems](#communication-systems)
      * [Control Systems](#control-systems)
-        * [Open loop](#open-loop)
-        * [Closed loop](#closed-loop)
      * [MEMS](#mems)
      * [Remote Sensing](#remote-sensing)
      * [Biomedical Signal Processing](#biomedical-signal-processing)
@@ -71,8 +54,8 @@ Time stamps: <br>
 
 <b> Description: </b> <br>
 <p>
-In this Video, he described the system as a source which manipulates the given input signal. With a system we can perform many operations on input signals and get the desired output.
-He also mentioned the types 0f systems which are continuous and discrete systems. And then he discusses them.
+In this Video, he described the system as a source which manipulates the given input signal. With a system we can perform many operations on input signals and get the desired output.<br>
+He also mentioned the types of systems which are continuous and discrete systems. And then he discusses them.
 </p>
 
 Block Diagram
@@ -86,16 +69,16 @@ Time Stamps: <br>
 
 <b>Description:</b> <br>
 <p>
-Lecture is about how to represent the signal transformation using a block diagram. He described every block for a particular operation. 
+Lecture is about how to represent the signal transformation using a block diagram. He described every block for a particular operation. <br>
 
 Block diagram consists of : 
 
-Blocks – these represent subsystems – typically modeled by, and labeled with, a transfer function
+<b>Blocks</b> – these represent subsystems – typically modeled by, and labeled with, a transfer function
 
-Signals – inputs and outputs of blocks – signal direction indicated by arrows – could be voltage, velocity, force, etc.
+<b>Signals</b> – inputs and outputs of blocks – signal direction indicated by arrows – could be voltage, velocity, force, etc.
 
 Summing junctions – points were signals are algebraically summed –subtraction indicated by a negative sign near where the signal joins the
-summing junction.
+summing junction.<br>
 For adding signals we use summation junctions and also closed loop systems for performing iterative operations on the input signals. This lecture covers block diagrams used to represent control systems, methods of manipulation of block diagrams (including an Example) as well as covering steady state errors and their determination.
 </p>
 
@@ -111,11 +94,11 @@ Time Stamps: <br>
 
 <b>Description:</b> <br>
 <p>
-In this video, we can understand the basic structure of communication systems with a block diagram.
-Below is the block diagram of the communication system.
-Communication is the exchange of information between the two or more points.
-Electronics point of view, it is the exchange of information using the electronic device or gadget between two or more points which can be far away from each other.
-The communication system contains the following basic blocks:
+In this video, we can understand the basic structure of communication systems with a block diagram.<br>
+Below is the block diagram of the communication system.<br>
+Communication is the exchange of information between the two or more points.<br>
+Electronics point of view, it is the exchange of information using the electronic device or gadget between two or more points which can be far away from each other.<br>
+The communication system contains the following basic blocks:<br>
 
 1) The Source
 2) Input Transducer
@@ -163,14 +146,14 @@ Time Stamps: <br>
 <b>Description:</b> <br>
 <p>
 This video is about the control systems and their types, A control system is a mechanical state that alters the future state of a system. 
-Control system is of two types:
-Open loop 
-Closed loop
+Control system is of two types:<br>
+Open loop <br>
+Closed loop<br>
 
-Open loop: 
+<b>Open loop:</b><br>
 In this system, input signal is not controlled by any feedback from output or conditions. The system is automatic. It continues to alter the input until the given time. Example: Dishwasher which  keeps on cleaning the dishes until the timer stops, it doesn't check whether the dish is clean or not. Once the timer stops it discontinues the process.
 
-Closed loop:
+<b>Closed loop:</b><br>
 	In this system, it has a regulation for the input before altering in the plant unlike open loop, closed loop system controls the input signal through feedback system.
 
 </p>
