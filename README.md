@@ -214,17 +214,17 @@ Time Stamps: <br>
 
 <b>Description:</b> <br>
 <p>
-The human auditory system is composed of three parts. The outer ear , the middle ear and the inner ear. Let's see how it works. 
+The human auditory system is composed of three parts. The outer ear , the middle ear and the inner ear. Let's see how it works. <br>
 
-The sound waves are picked up by the ear pavilion of the outer ear . They are then amplified and transmitted to the middle ear through the external ear canal . This movement of the sound makes this small membrane called the eardrum vibrate.  
+The sound waves are picked up by the ear pavilion of the outer ear . They are then amplified and transmitted to the middle ear through the external ear canal . This movement of the sound makes this small membrane called the eardrum vibrate.  <br>
 
-These vibrations are transmitted to the ossicles located in the middle ear. The ossicles are the smallest bones in the human body.  They are composed of the malleus, which transmits the vibrations to the incus then to the stapes which acts as a piston that compresses the fluid of the inner ear . 
+These vibrations are transmitted to the ossicles located in the middle ear. The ossicles are the smallest bones in the human body.  They are composed of the malleus, which transmits the vibrations to the incus then to the stapes which acts as a piston that compresses the fluid of the inner ear . <br>
 
-The cochlea is the main organ of auditory perception.  It contains between 15 to 20 thousand hair cells that detect vibrations of the liquid and generate nerve impulses that are sent to the brain via the auditory nerve.
+The cochlea is the main organ of auditory perception.  It contains between 15 to 20 thousand hair cells that detect vibrations of the liquid and generate nerve impulses that are sent to the brain via the auditory nerve.<br>
 
-But this system is fragile and can suffer failures, we call this hearing loss two of which are conduction hearing loss and sensorineural hearing loss. 
+But this system is fragile and can suffer failures, we call this hearing loss two of which are conduction hearing loss and sensorineural hearing loss. <br>
 
-Conduction hearing loss can be caused by an obstruction in the ear canal , such as ear wax, a perforated eardrum , a malfunction of the ossicles , otitis or fluid in the middle ear. This type of loss can often be resolved by medical intervention and represents only 10 % of cases of hearing loss.
+Conduction hearing loss can be caused by an obstruction in the ear canal , such as ear wax, a perforated eardrum , a malfunction of the ossicles , otitis or fluid in the middle ear. This type of loss can often be resolved by medical intervention and represents only 10 % of cases of hearing loss.<br>
 
 The second type of loss, sensorineural hearing loss represents 90 % of cases. It results from the destruction of hair cells in the cochlea. It is often due to aging, can be genetic or the consequence of repeated exposure to very loud sound. This type of loss is irreversible, yes, it's a shame, but can often be compensated by hearing aids.
 </p>
@@ -244,15 +244,15 @@ Time Stamps: <br>
 
 <b>Description: </b> <br>
 
-<b>Memoryless system:</b> <p>The system is said to be memoryless (in both continuous-time and discrete-time) if its output signal only depends on the present value of the input signal.
-The input from the past and future has no influence on the output of the system.
+<b>Memoryless system:</b> <p>The system is said to be memoryless (in both continuous-time and discrete-time) if its output signal only depends on the present value of the input signal.<br>
+The input from the past and future has no influence on the output of the system.<br>
 
 Ex: A resistor is memoryless, since the current i(t) flowing through it in response to the applied voltage v(t) is defined by <br />
 &emsp; &emsp;![pic1](https://user-images.githubusercontent.com/54907384/124416411-9030e380-dd74-11eb-8aed-cb313be15533.png) where R is resistance of the resistor.</p>
 
 <b>Memory System:</b> <p>
-In contrast, the system is said to possess memory if its output signal depends on past or future values of input signal.
-These systems are opposite of memory systems.
+In contrast, the system is said to possess memory if its output signal depends on past or future values of input signal.<br>
+These systems are opposite of memory systems.<br>
 
 Ex: An inductor has memory, since the current i(t) flowing through it is related to the applied voltage v(t) by <br />
 &emsp;&emsp; ![pic2](https://user-images.githubusercontent.com/54907384/124416946-bb680280-dd75-11eb-8ff9-a1062a25bb4a.png) where L is inductance of th inductor.</p>
@@ -493,13 +493,13 @@ Time Stamps: <br>
 <b>Description:</b> <br>
 <p>
 
-In this video, we learn about laplace transform conditions for a system to be causal. 
-For a system h(t) to be causal h(t) = 0, t < 0
-For a system h(t) to be stable it needs to satisfy BIBO condition,
+In this video, we learn about laplace transform conditions for a system to be causal. <br>
+For a system h(t) to be causal h(t) = 0, t < 0 <br>
+For a system h(t) to be stable it needs to satisfy BIBO condition, 
 
 <img src="https://render.githubusercontent.com/render/math?math=\int_{-\infty }^{\infty }|h(t)|\, dt<\infty">
 
-Causal systems are regions of convergence in s domain that are right sided including infinity conditions.
+Causal systems are regions of convergence in s domain that are right sided including infinity conditions.<br>
 I.e, laplace transform X(s) =  <img src="https://render.githubusercontent.com/render/math?math=\int_{0}^{\infty }h(t)e^{-st}\, dt">
 
 	
@@ -519,7 +519,7 @@ Time Stamps: <br>
 <b>Description:</b> <br>
 <p>
 
-In this video, we learn that a discrete time LTI system with function H(z) is causal if and only if the ROC is the exterior of a circle outside the outermost pole. 
+In this video, we learn that a discrete time LTI system with function H(z) is causal if and only if the ROC is the exterior of a circle outside the outermost pole. <br>
 
 A causal LTI system with function H(z) is stable if and only if 
 all the poles of H(z) lie inside the unit circle, i.e, they all must have magnitude smaller than 1. 
@@ -556,7 +556,7 @@ Time Stamps: <br>
 
 <b>Description:</b> <br>
 <p>
-A Parallel system is a parallel arrangement of objects. In the video, measuring the resultant response of the system in a general cascaded system.
+A Parallel system is a parallel arrangement of objects. In the video, measuring the resultant response of the system in a general cascaded system.<br>
 H(z) = H1(z) + H2(z) + H3(z) +...... + Hn(z).
 </p>
 
@@ -571,6 +571,6 @@ Time Stamps: <br>
 
 <b>Description:</b> <br>
 <p>
-Back in 1920, Bell Labs proposed the theory of feedback where the output is given as a limiter or remainder for the flow of input so that we can control the input and system. 
+Back in 1920, Bell Labs proposed the theory of feedback where the output is given as a limiter or remainder for the flow of input so that we can control the input and system. <br>
 Feedback is the design technique where a portion of the amplifier output "feeds back" to the input of the amplifier. The overall effect creates a very stable gain factor determined by resistor ratios.
 </p>	
