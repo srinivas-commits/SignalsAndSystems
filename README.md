@@ -107,27 +107,27 @@ The communication system contains the following basic blocks:<br>
 5) Receiver
 6) Output Transducer
 
-Source:
+<b>Source:</b><br>
 The source is the origin from where the message signal is generated.
 The message could be voice signal, email, Television Signal, or data.
 
-Input Transducer:
+<b>Input Transducer:</b><br>
 Using the input transducer, the message signal is converted into the electrical signal.
 
-Transmitter:
-The transmitter signal modifies the input signal for efficient transmission.
+<b>Transmitter:</b><br>
+The transmitter signal modifies the input signal for efficient transmission.<br>
 The transmitter may contain several subsystems like modulator, analog to digital converter, encoder, amplifier etc.
 
-Channel:
-The channel is the medium over which the transmitted signal is transmitted.
-The channel could be physical channel (e.g optical fiber, coaxial cable) or wireless channel (radio link)
+<b>Channel:</b><br>
+The channel is the medium over which the transmitted signal is transmitted.<br>
+The channel could be physical channel (e.g optical fiber, coaxial cable) or wireless channel (radio link)<br>
 The channel partly behaves like a filter and attenuates and distorts the transmitted signal.
 
-The receiver:
-For faithful communication, the receiver should be able to recover the message signal from the received (distorted and attenuated) signal.
+<b>The receiver:</b><br>
+For faithful communication, the receiver should be able to recover the message signal from the received (distorted and attenuated) signal.<br>
 The receiver also contains several subsystems like, demodulator, decoder, digital to analog converter, amplifier.
 
-Output Transducer:
+<b>Output Transducer:</b><br>
 The output of the receiver is given to the output transducer. Speaker, monitor screen are examples of the output transducer.
 
 
@@ -169,10 +169,10 @@ Time Stamps: <br>
 
 <b>Description:</b> <br>
 <p>
-Micro Electro-Mechanical Systems are devices built with micro sensors and mechanical parts along signal processing circuits. These devices provide a channel between computing systems and the physical world. Basic I/O ’s are built using MEMS. They provide I/O to information systems like sensing and creating motion, radio waves etc. 
-The distinctive features of MEMS :
-1. Miniaturization 
-2. Multiplicity
+Micro Electro-Mechanical Systems are devices built with micro sensors and mechanical parts along signal processing circuits. These devices provide a channel between computing systems and the physical world. Basic I/O ’s are built using MEMS. They provide I/O to information systems like sensing and creating motion, radio waves etc. <br>
+The distinctive features of MEMS : <br>
+1. Miniaturization <br>
+2. Multiplicity <br>
 3. Microelectronics.
 
 </p>
