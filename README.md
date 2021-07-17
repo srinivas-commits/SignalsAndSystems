@@ -404,7 +404,8 @@ Time Stamps: <br>
 <b>Description: </b> <br>
 	
 <p>&emsp;LTI system is composed of 2 types of systems, <b>linear system</b> and <b>time-invariant system</b>, and possess the properties of both systems.<br />
-&emsp;&emsp;&emsp;&emsp;&emsp; [aaaaab](https://user-images.githubusercontent.com/54907384/124428118-e5c3bb00-dd89-11eb-82e2-fd1c1870c0a3.png) </p>
+&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://user-images.githubusercontent.com/54907384/124428118-e5c3bb00-dd89-11eb-82e2-fd1c1870c0a3.png" /> 
+</p>
 	
 Impulse response of LTI
 -----------
